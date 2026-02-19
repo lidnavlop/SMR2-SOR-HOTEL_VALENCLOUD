@@ -1,2 +1,25 @@
 
 Hola mundo!
+
+# Pendiente:
+
+[SOR. Reto06: Administración del HOTEL con Windows (Active Directory Domain Services)](https://aules.edu.gva.es/fp/mod/assign/view.php?id=9808480)
+
+**Requisits de compleció** \
+S'ha obert el: dimecres, 7 de gener 2026, 00:00 \
+Venciment: dimecres, 21 de gener 2026, 00:00 \
+Adaptación del "Administración de Active Directory Domain Services" a las características de HOTEL 
+
+Por cada tarea describir y documentar las configuraciones realizadas, con capturas de pantalla, diagramas en .md y pdf
+
+SOR_2
+
+> - Tarea 1: Creación de Cuentas Operativas (CE a)
+> - Tarea 2: Definición de Entornos de Trabajo (CE b)
+> - Tarea 3: Registro de Dispositivos (CE c)
+> - Tarea 4: Diseño de la Estructura de Acceso (CE d)
+> - Tarea 5: Implementación de Grupos Funcionales (CE e)
+> - Tarea 6: Asignación de Permisos (CE f)
+> - Tarea 7: Auditoría de Seguridad Inicial (CE g)
+> - Tarea 8: Movilidad y Despliegue de Perfiles (CE h)
+> - Tarea 9: Aplicación de Herramientas de Administración (CE i)
